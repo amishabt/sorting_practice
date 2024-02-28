@@ -19,6 +19,7 @@ namespace sorting
             for (int i = 0; i < given.Length; i++) {
                 Console.Write("  " + given[i]);
             }
+            Console.WriteLine("");
         }
 
            
